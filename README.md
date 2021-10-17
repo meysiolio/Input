@@ -24,5 +24,5 @@ True
 
 **Explanation**
 
-***`P(1)= 1<sup>3</sup> + 1<sup>2</sup> + 1 + 1 = 4 = k`***
+**P(1)= 1<sup>3</sup> + 1<sup>2</sup> + 1 + 1 = 4 = k`**
 Hence, the output is True.
